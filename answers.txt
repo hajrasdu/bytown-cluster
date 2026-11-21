@@ -1,0 +1,3 @@
+Q1: Docker Swarm and Kubernetes automatically started a new container or pod because I had set the desired number of replicas to 4. When I deleted one, they created a replacement to keep 4 copies running.
+Q2: I would choose Docker Swarm because it is easier to set up and manage. I would choose K3s instead of full Kubernetes because it uses fewer resources and is easier to run on smaller computers.
+Q3: The website stayed online because Kubernetes updated the pods gradually instead of stopping all of them at once. While some pods were being updated, the other running pods continued handling requests.

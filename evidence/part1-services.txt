@@ -1,0 +1,2 @@
+ID             NAME         MODE         REPLICAS   IMAGE            PORTS
+xyv6nw2w7y1f   bytown_web   replicated   4/4        bytown-web:1.0   *:8514->80/tcp
